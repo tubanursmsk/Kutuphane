@@ -29,13 +29,20 @@ Konsol tabanlıdır ve **katmanlı mimari** kullanılmıştır.
 3. Visual Studio Code ile `Program.cs` dosyasını çalıştırın.
 
 ## 📸 Ekran Görüntüleri
-Veri Tabanı Yapısı
+
+**Veri Tabanı Yapısı
+
+
 <img width="760" alt="Ekran görüntüsü 2025-04-28 170646" src="https://github.com/user-attachments/assets/cf83d103-0ad5-4847-a826-77394c7a4520" />
 
-Katmanlı Mimari Kullanımı
+**Katmanlı Mimari Kullanımı
+
+
 <img width="683" alt="program cs giriş" src="https://github.com/user-attachments/assets/a681eb47-d8b4-441f-95f4-3a0a6659c0e4" />
 
-Terminal çıktıları
+**Terminal çıktıları
+
+
 <img width="404" alt="terminal çıktısı 1" src="https://github.com/user-attachments/assets/a1d70e55-ddb8-4a84-8a58-596e578d8a17" />
 
 <img width="299" alt="terminal çıktısı 2" src="https://github.com/user-attachments/assets/873eb0b7-880b-45d1-860b-f85bb4933dee" />
