@@ -24,7 +24,7 @@ Konsol tabanlıdır ve **katmanlı mimari** kullanılmıştır.
 - Function: `fn_GecikmeGunSayisi`
 
 ## 🚀 Kurulum
-1. `KutuphaneDB.sql` dosyasındaki sorguları çalıştırarak veritabanını oluşturun.
+1. `Kutuphane.bak` dosyasındaki sorguları çalıştırarak veritabanını oluşturun.
 2. Proje klasörünü açın.
 3. Visual Studio Code ile `Program.cs` dosyasını çalıştırın.
 
