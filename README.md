@@ -4,7 +4,7 @@ Bu proje, C# dilinde ve ADO.NET kullanılarak geliştirilen bir **Kütüphane Y�
 Konsol tabanlıdır ve **katmanlı mimari** kullanılmıştır.
 
 ## 🛠 Kullanılan Teknolojiler
-- C# (.NET 8.0)
+- C# (.NET 9.0)
 - SQL Server (DBeaver kullanıldı)
 - ADO.NET
 - Katmanlı Mimari (Models, Servis, Utils)
