@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfO4P/9Wb7M=",
+  "dgSpecHash": "WuZ9/fwQJDk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Documents\\Kutuphane\\kutuphane.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\Kutuphane\\Kutuphane\\kutuphane.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

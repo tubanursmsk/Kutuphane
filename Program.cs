@@ -30,15 +30,15 @@ class Program
             Console.WriteLine("10. Çıkış");
             Console.Write("Seçiminiz: ");
 
-            string secim = Console.ReadLine();
+            string? secim = Console.ReadLine();
 
             switch (secim)
             {
                 case "1":
                     Console.Write("Yazar Adı: ");
-                    string yazarAd = Console.ReadLine();
+                    string? yazarAd = Console.ReadLine();
                     Console.Write("Yazar Soyadı: ");
-                    string yazarSoyad = Console.ReadLine();
+                    string? yazarSoyad = Console.ReadLine();
                     yazarServis.YazarEkle(new Yazar { Ad = yazarAd, Soyad = yazarSoyad });
                     Console.WriteLine("Yazar eklendi.");
                     break;
